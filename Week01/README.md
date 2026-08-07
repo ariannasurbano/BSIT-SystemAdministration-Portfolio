@@ -33,7 +33,7 @@
 
 **GitHub:** https://github.com/ariannasurbano
 
-**LinkedIn:** https://www.linkedin.com/in/surbano-arianna-c-7b2546427?utm_source=share_via&utm_content=profile&utm_medium=member_android
+**LinkedIn:**  https://ph.linkedin.com/in/surbano-arianna-c-7b2546427
 
 ---
 
