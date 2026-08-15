@@ -1,0 +1,58 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Page-1" id="6LZrkjlwTV_g3KxY1C2u">
+    <mxGraphModel dx="2442" dy="1136" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="kIwbrQxwjyX3FfpuUJ4S-1" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Ubuntu Boot Process Flowchart" vertex="1">
+          <mxGeometry height="30" width="280" x="285" y="20" as="geometry" />
+        </mxCell>
+        <mxCell id="kIwbrQxwjyX3FfpuUJ4S-10" edge="1" parent="1" source="kIwbrQxwjyX3FfpuUJ4S-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="kIwbrQxwjyX3FfpuUJ4S-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kIwbrQxwjyX3FfpuUJ4S-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Power ON" vertex="1">
+          <mxGeometry height="60" width="120" x="370" y="80" as="geometry" />
+        </mxCell>
+        <mxCell id="kIwbrQxwjyX3FfpuUJ4S-11" edge="1" parent="1" source="kIwbrQxwjyX3FfpuUJ4S-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="kIwbrQxwjyX3FfpuUJ4S-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kIwbrQxwjyX3FfpuUJ4S-3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="BIOS/UEFI Initialization&amp;nbsp;" vertex="1">
+          <mxGeometry height="60" width="120" x="370" y="180" as="geometry" />
+        </mxCell>
+        <mxCell id="kIwbrQxwjyX3FfpuUJ4S-12" edge="1" parent="1" source="kIwbrQxwjyX3FfpuUJ4S-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="kIwbrQxwjyX3FfpuUJ4S-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kIwbrQxwjyX3FfpuUJ4S-4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Boot Device Detection" vertex="1">
+          <mxGeometry height="60" width="120" x="370" y="270" as="geometry" />
+        </mxCell>
+        <mxCell id="kIwbrQxwjyX3FfpuUJ4S-13" edge="1" parent="1" source="kIwbrQxwjyX3FfpuUJ4S-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="kIwbrQxwjyX3FfpuUJ4S-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kIwbrQxwjyX3FfpuUJ4S-5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&amp;nbsp;Boot Loader (GRUB)&amp;nbsp; &amp;nbsp;" vertex="1">
+          <mxGeometry height="60" width="120" x="370" y="380" as="geometry" />
+        </mxCell>
+        <mxCell id="kIwbrQxwjyX3FfpuUJ4S-6" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&amp;nbsp;Login Prompt&amp;nbsp; &amp;nbsp;&amp;nbsp;" vertex="1">
+          <mxGeometry height="60" width="120" x="365" y="760" as="geometry" />
+        </mxCell>
+        <mxCell id="kIwbrQxwjyX3FfpuUJ4S-16" edge="1" parent="1" source="kIwbrQxwjyX3FfpuUJ4S-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="kIwbrQxwjyX3FfpuUJ4S-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kIwbrQxwjyX3FfpuUJ4S-7" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Services Start" vertex="1">
+          <mxGeometry height="60" width="120" x="365" y="650" as="geometry" />
+        </mxCell>
+        <mxCell id="kIwbrQxwjyX3FfpuUJ4S-15" edge="1" parent="1" source="kIwbrQxwjyX3FfpuUJ4S-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="kIwbrQxwjyX3FfpuUJ4S-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kIwbrQxwjyX3FfpuUJ4S-8" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&amp;nbsp;init/systemd&amp;nbsp;&amp;nbsp;" vertex="1">
+          <mxGeometry height="60" width="120" x="365" y="560" as="geometry" />
+        </mxCell>
+        <mxCell id="kIwbrQxwjyX3FfpuUJ4S-14" edge="1" parent="1" source="kIwbrQxwjyX3FfpuUJ4S-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="kIwbrQxwjyX3FfpuUJ4S-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kIwbrQxwjyX3FfpuUJ4S-9" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Linux Kernel&amp;nbsp;&amp;nbsp;" vertex="1">
+          <mxGeometry height="60" width="120" x="370" y="470" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
